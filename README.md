@@ -1,2 +1,3 @@
-# World Football Ballon D'or Ranking Prediction
-Predicting the standout player in one men’s football club by analyzing their domestic league, champion’s league, and world cup performance
+# ⚽️ Ballon D'or Predictor: 2025-2026 Season Analysis
+
+A year-long data science project tracking a top-flight football (soccer) club's full season — including domestic league matches, UEFA Champions League, and international performances — to predict potential Ballon d'Or contenders. All data is self-collected and analyzed using Python, spreadsheets, and data visualization tools.
