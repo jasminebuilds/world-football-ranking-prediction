@@ -10,3 +10,5 @@ This project is designed to simulate the role of a professional football data an
 - Identify the most consistent and impactful players month-to-month
 - Evaluate players' club + international performance ahead of the 2026 World Cup
 - Predict who is most likely to be nominated or win the Ballon d'Or based on performance metrics
+
+## 🧰 Tools & Technologies
