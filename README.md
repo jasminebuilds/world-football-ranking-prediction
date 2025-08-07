@@ -55,9 +55,9 @@ world-football-ranking-prediction/
 - How much does international form during a World Cup Season influence the Ballon D'or ranking?
 
 ## 🤝 Credits (updated frequently)
-mancity.com
+mancity.com<br/>
 premierleague.com
 
 
 
-created with 🩵 for world football by Jasmine. Inspired by sports analytics and the love of building from scratch.
+<p>created with 🩵 for world football by Jasmine. Inspired by sports analytics and the love of building from scratch.</p>
