@@ -21,6 +21,8 @@ This project is designed to simulate the role of a professional football data an
 
 ## 📂 Project Structure
 
+```bash
+
 world-football-ranking-prediction/
 ├── data/                  CSV files with player & match stats
 ├── notebooks/             Jupyter notebooks for analysis & visuals
@@ -29,6 +31,8 @@ world-football-ranking-prediction/
 ├── src/                   Python scripts and utility functions
 ├── README.md              You’re here!
 └── requirements.txt       Python dependencies
+
+```
 
 ## 📝 Current Status
 
