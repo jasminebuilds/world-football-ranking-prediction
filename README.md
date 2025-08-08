@@ -56,7 +56,11 @@ world-football-ranking-prediction/
 
 ## 🤝 Credits (updated frequently)
 mancity.com<br/>
-premierleague.com
+premierleague.com<br/>
+fbref.com<br/>
+sofascore.com<br/>
+understat.com<br/>
+whoscored.com
 
 
 
